@@ -1,0 +1,14 @@
+# patient data and everything derived from it (AmsterdamUMCdb data use agreement) can never be on github
+data/
+data_raw/
+nested_cv/
+results/
+figures/
+
+*.parquet
+*.csv
+Extubation_group5_projectplan.pdf
+
+__pycache__/
+venv/
+.DS_Store
